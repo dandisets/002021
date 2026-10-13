@@ -19,8 +19,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: two-photon microscopy technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 692950014576
-  numberOfFiles: 582
+  numberOfBytes: 708680389456
+  numberOfFiles: 592
   numberOfSubjects: 48
   schemaKey: AssetsSummary
   species:
